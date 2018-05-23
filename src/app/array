@@ -1,0 +1,13 @@
+vetor[0]=ola
+
+$vetor[0] --> Doesn't work
+
+aways use {} to call variables to call it in a full size
+
+--------------------
+
+vetor[10]=kkk
+
+${vetor[*]} --> Print all the content in the vector
+
+${#vetor[*]} --> get the range of the vector
